@@ -13,7 +13,7 @@ The IBM Watson [Personality Insights][service_url] service uses linguistic analy
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ![alt text](https://i.imgur.com/9EKpWJT.png)
 
-## Page Layout
+## User Interface
 ![alt text](https://i.imgur.com/zLkqouJ.png)
 ## Available Scripts
 
