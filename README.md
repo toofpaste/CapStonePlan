@@ -12,6 +12,9 @@ The IBM Watson [Personality Insights][service_url] service uses linguistic analy
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ![alt text](https://i.imgur.com/9EKpWJT.png)
+
+## Page Layout
+![alt text](https://i.imgur.com/zLkqouJ.png)
 ## Available Scripts
 
 In the project directory, you will be able to run(CURRENTLY NOT RUNNING):
@@ -50,7 +53,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 
-## Directory structure
+## Directory structure (if using express)
 
 ```none
 .
@@ -71,6 +74,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 │   ├── data                     // sample text and tweets
 │   ├── fonts
 │   ├── images
+│   ├── YourPersonalityAI
+│   ├── OtherPersonalityAI
 │   └── gameboard
 ├── router.js                   //(maybe) express routes
 ├── server.js                   //(maybe) application entry point
