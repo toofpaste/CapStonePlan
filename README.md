@@ -2,11 +2,8 @@
 
 <h1 align="center" style="border-bottom: none;">🚀 IBM Watson Personality Insights Board Game AI</h1>
 <p align="center">
-  <a href="http://travis-ci.org/watson-developer-cloud/personality-insights-nodejs">
-    <img alt="Travis" src="https://travis-ci.org/watson-developer-cloud/personality-insights-nodejs.svg?branch=master">
-  </a>
-  <a href="#badge">
-    <img alt="semantic-release" src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg">
+  <a href="https://travis-ci.org/toofpaste/CapStonePlan.svg?branch=master">
+    <img alt="Travis" src="https://travis-ci.org/toofpaste/CapStonePlan.svg?branch=master">
   </a>
 </p>
 </p>
